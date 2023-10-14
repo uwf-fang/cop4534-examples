@@ -12,5 +12,5 @@ int main() {
   std::chrono::duration<double> duration = end - start;
   // Print the duration in seconds
   std::cout << "Function took " << duration.count() << " seconds." << std::endl;
-  return EXIT_SUCCESS
+  return EXIT_SUCCESS;
 }

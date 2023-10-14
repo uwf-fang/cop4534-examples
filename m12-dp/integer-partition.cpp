@@ -28,7 +28,7 @@ void generatePartitions(int n) {
 int main(int argc, char *argv[]) {
   if (argc != 2) {
     cout << "Usage: " << argv[0] << " <positive_integer>" << endl;
-    return EXIT_SUCCESS;
+    return EXIT_FAILURE;
   }
 
   int n = atoi(argv[1]);
