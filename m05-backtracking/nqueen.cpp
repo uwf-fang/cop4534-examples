@@ -103,5 +103,5 @@ int main() {
   nq.solveIterative();
   nq.printSolutions();
 
-  return 0;
+  return EXIT_SUCCESS
 }
