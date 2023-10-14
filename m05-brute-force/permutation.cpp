@@ -70,5 +70,5 @@ int main() {
   cout << "Method 2:" << endl;
   allPermutations1(arr);
 
-  return EXIT_SUCCESS
+  return EXIT_SUCCESS;
 }

@@ -45,5 +45,5 @@ int main() {
   tree.print();
   tree.clear();
 
-  return EXIT_SUCCESS
+  return EXIT_SUCCESS;
 }
